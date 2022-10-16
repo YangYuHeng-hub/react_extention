@@ -1,11 +1,10 @@
 import React, { Component } from 'react'
-import Demo from './component/5_context/A'
 
-export default class App extends Component {
+export default class Home extends Component {
   render() {
     return (
       <div>
-        <Demo/>
+        <h2>我是Home组件</h2>
       </div>
     )
   }

@@ -1,0 +1,15 @@
+.a{
+    width: 500px;
+    background-color: gray;
+    padding: 10px;
+}
+
+.b{
+    background-color: aqua;
+    padding: 10px;
+}
+
+.c{
+    background-color: orange;
+    padding: 10px;
+}
